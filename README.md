@@ -1,5 +1,3 @@
-This is the main entry point for this React application
-
 This application demonstrates the use of the Context API in React.
 The Context API allows us to share state and functions across components
 without having to pass props down manually at every level using prop-drilling.
